@@ -68,14 +68,6 @@ Cette application est conçue pour gérer la cantine du restaurant du campus Bao
     ng serve
     ```
 
-## Contribuer
-Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes pour contribuer :
-1. Fork le projet
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos modifications (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
-
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
