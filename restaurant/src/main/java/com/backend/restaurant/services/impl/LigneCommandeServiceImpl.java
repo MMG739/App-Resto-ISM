@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class LigneCommandeServiceImpl implements ICoreService<LigneCommandeEntity> {
     @Override
-    public Page<LigneCommandeEntity> findAllWithPagination() {
+    public Page<LigneCommandeEntity> findAllWithPagination(int page, int size) {
         return null;
     }
 
@@ -18,4 +18,9 @@ public class LigneCommandeServiceImpl implements ICoreService<LigneCommandeEntit
     public LigneCommandeEntity findById(Long id) {
         return null;
     }
+
+//    @Override
+//    public LigneCommandeEntity store(LigneCommandeEntity dtoRequest) {
+//        return null;
+//    }
 }
